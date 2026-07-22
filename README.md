@@ -43,8 +43,9 @@ I enjoy building structured systems and am currently exploring web development a
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/moonsia-nowrin-alifa-b1410a355/)
-[![GitHub](https://img.shields.io/badge/GitHub-moonsia--sys-black?style=flat&logo=github)](https://github.com/moonsia-sys)
+- 💼 [LinkedIn — Moonsia Nowrin Alifa](https://www.linkedin.com/in/moonsia-nowrin-alifa-b1410a355/)
+- 🐙 [GitHub — moonsia-sys](https://github.com/moonsia-sys)
+- 📧 moonsianowrin996@gmail.com
 
 ---
 
