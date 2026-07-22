@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Moonsia 👋</h1>
 
 <p align="center">
-  🎓 CSE Student @ BAUSTK (3rd Year) &nbsp;|&nbsp; 💻 C/C++ · MySQL · SQL &nbsp;|&nbsp; 📍 Bangladesh
+ 🎓 CSE Student @ BAUST (3rd Year) &nbsp;|&nbsp; 💻 Code · Build · Explore &nbsp;|&nbsp; 📍 Bangladesh
 </p>
 
 ---
