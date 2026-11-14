@@ -10,9 +10,9 @@
 
 ## About Me
 
-I'm a Computer Science & Engineering student at BAUST, moving into my final year after completing my third year.
+I'm a Computer Science & Engineering student at BAUST.
 
-I enjoy turning ideas into practical projects, exploring how software and hardware work, and strengthening my foundation in computer science. I'm currently focused on improving my development skills, building useful projects, and preparing for the next step in my engineering journey.
+I enjoy turning ideas into practical projects, exploring how software works, and strengthening my foundation in computer science. I'm currently focused on improving my development skills, building useful projects, and preparing for the next step in my engineering journey.
 
 ## Technologies & Tools
 
@@ -20,10 +20,9 @@ I enjoy turning ideas into practical projects, exploring how software and hardwa
 |---|---|
 | Programming | C, C++, Java, PHP |
 | Web | HTML, CSS |
-| Databases | SQL, Oracle Database, MySQL / MariaDB |
-| Embedded Systems | ESP32, Arduino IDE, Ultrasonic Sensors |
+| Databases | SQL, Oracle Database, MySQL and Oracle|
 | Tools | VS Code, IntelliJ IDEA, XAMPP |
-| Core Concepts | Object-Oriented Programming, DBMS, Networking, Data Communications |
+| Core Concepts | Object-Oriented Programming, DBMS, Networking, Data Communications, Software Development Project|
 
 ## Featured Projects
 
