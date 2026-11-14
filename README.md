@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Moonsia Nowrin Alifa 👋</h1>
 
 <p align="center">
-  <b>CSE Student @ BAUST · Entering Final Year</b><br/>
+  <b>CSE Student @ BAUST. </b><br/>
   Building projects, learning by doing, and growing as a developer.
 </p>
 
@@ -16,9 +16,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science & Engineering student at BAUST, moving into my final year after completing my third year.
+I'm a Computer Science & Engineering student at BAUST.
 
-I enjoy turning ideas into practical projects and exploring both software and hardware. I'm focused on strengthening my programming fundamentals, learning through hands-on development, and building a solid foundation for my career in technology.
+I enjoy turning ideas into practical projects and exploring software. I'm focused on strengthening my programming fundamentals, learning through hands-on development, and building a solid foundation for my career in technology.
 
 ## 🛠️ Tech Stack
 
@@ -40,14 +40,13 @@ I enjoy turning ideas into practical projects and exploring both software and ha
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database"/>
 </p>
 
-**Tools & Embedded Systems**
+**Tools**
 
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/ESP32-333333?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+ 
 </p>
 
 ## 📌 Featured Projects
