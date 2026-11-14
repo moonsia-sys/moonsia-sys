@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Moonsia Nowrin Alifa 👋</h1>
 
 <p align="center">
-  <b>CSE Student @ BAUST. </b><br/>
+  <b>CSE Student @ BAUSTK. </b><br/>
   Building projects, learning by doing, and growing as a developer.
 </p>
 
@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science & Engineering student at BAUST.
+I'm a Computer Science & Engineering student at BAUSTK.
 
 I enjoy turning ideas into practical projects and exploring software. I'm focused on strengthening my programming fundamentals, learning through hands-on development, and building a solid foundation for my career in technology.
 
